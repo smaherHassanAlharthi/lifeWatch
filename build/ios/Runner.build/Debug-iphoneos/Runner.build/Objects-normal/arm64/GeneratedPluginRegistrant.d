@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/macbookpro/AndroidStudioProjects/life_watch/ios/Flutter/Flutter.framework/Headers/Flutter.h

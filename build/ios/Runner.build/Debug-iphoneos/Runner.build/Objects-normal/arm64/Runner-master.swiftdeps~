@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "f63d04fe5d5508db9a9d241451d46726"
+build_time: [1594450509, 784215000]
+inputs:
+  "/Users/macbookpro/AndroidStudioProjects/life_watch/ios/Runner/AppDelegate.swift": [1568706917, 824535804]
